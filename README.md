@@ -1,0 +1,1 @@
+this is a plain editor that can create shapes & scale them & undo-redo buttons & etc…
